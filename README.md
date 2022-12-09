@@ -11,7 +11,7 @@ The figure below presents the overlapping of a neuron mesh with its original mic
 
 ## Download
 
-The size of the dataset is 2.5 GB. You can download the neuron meshes, metadata, and neuroanatomical measurements [here](https://www.dropbox.com/sh/sj42ubtrofr6e8g/AADYynnevkRRlnV2AfZYsxtja?dl=0).
+The size of the dataset is 2.5 GB, so it is not stored in this repo. You can download the neuron meshes, metadata, and neuroanatomical measurements [here](https://www.dropbox.com/sh/sj42ubtrofr6e8g/AADYynnevkRRlnV2AfZYsxtja?dl=0).
 
 ## Gallery
 
