@@ -1,6 +1,6 @@
 # NeuronSet
 
-A large simulation-ready neuron mesh dataset.
+A large-scale simulation-ready neuron mesh dataset.
 
 ## Description
 
@@ -11,7 +11,7 @@ The figure below presents the overlapping of a neuron mesh with its original mic
 
 ## Download
 
-You can download the neuron meshes, metadata, and neuroanatomical measurements [here](https://www.dropbox.com/sh/sj42ubtrofr6e8g/AADYynnevkRRlnV2AfZYsxtja?dl=0).
+The size of the dataset is 2.5 GB. You can download the neuron meshes, metadata, and neuroanatomical measurements [here](https://www.dropbox.com/sh/sj42ubtrofr6e8g/AADYynnevkRRlnV2AfZYsxtja?dl=0).
 
 ## Gallery
 
@@ -19,6 +19,6 @@ You can download the neuron meshes, metadata, and neuroanatomical measurements [
 
 ## Citation
 
-If you use any mesh in NeuronSet, please cite [NeuroMorpho.Org](https://neuromorpho.org/) and the citations included in each archive.
+If you use any mesh in NeuronSet, please cite [NeuroMorpho.Org](https://neuromorpho.org/) and the citations related to the archives used.
 
 If NeuronSet is helpful for your research, please also consider cite [swc2mesh](https://github.com/fachra/swc2mesh). See [CITATION.bib](CITATION.bib).
